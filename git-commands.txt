@@ -1,0 +1,3 @@
+## Initialize a git repository on local machine
+$ git init
+
