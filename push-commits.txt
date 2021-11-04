@@ -1,4 +1,0 @@
-# Pushing commits to a remote repository
-git push  <REMOTENAME> <BRANCHNAME> 
-git push origin main
-git push origin master
