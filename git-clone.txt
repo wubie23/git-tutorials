@@ -1,3 +1,0 @@
-# How to bring a copy of a remote repository to local machine
-git clone <url of the repository>
-git clone https://github.com/wubie23/git-tutorials.git
